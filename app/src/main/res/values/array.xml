@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="languages">
+        <item>一本正经1</item>
+        <item>一本正经2</item>
+        <item>一本正经3</item>
+        <item>一本正经4</item>
+        <item>一本正经5</item>
+        <item>一本正经6</item>
+        <item>一本正经1</item>
+        <item>一本正经2</item>
+        <item>一本正经3</item>
+        <item>一本正经4</item>
+        <item>一本正经5</item>
+        <item>一本正经6</item>
+        <item>一本正经1</item>
+        <item>一本正经2</item>
+        <item>一本正经3</item>
+        <item>一本正经4</item>
+        <item>一本正经5</item>
+        <item>一本正经6</item>
+        <item>一本正经1</item>
+        <item>一本正经2</item>
+        <item>一本正经3</item>
+        <item>一本正经4</item>
+        <item>一本正经5</item>
+        <item>一本正经6</item>
+    </string-array>
+</resources>
